@@ -2,8 +2,8 @@ const customers = [
   {
     name: {
       title: 'dr',
-      first: 'sophia',
-      last: 'burns'
+      first: 'Sophia',
+      last: 'Burns'
     },
     location: {
       street: {
